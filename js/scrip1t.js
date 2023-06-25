@@ -26,4 +26,4 @@ function argum (from , text= 1  ) {
 let finish = argum(number , stepenb)
 alert (finish)
 
-// kgmrkwm?
+// kgmr
